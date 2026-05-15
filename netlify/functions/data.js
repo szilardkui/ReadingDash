@@ -1,7 +1,7 @@
 // Reading Dashboard — Notion Data Proxy
 // Queries Sessions DB + resolves book titles via relation
 
-const SESSIONS_DB_ID = 'a44d6172-ddcf-42b4-9d01-39d02683df99';
+const SESSIONS_DB_ID = '21d9469c05fd802a8494f492a1634dc7';
 const NOTION_VERSION = '2022-06-28';
 
 async function notionGet(path, token) {
